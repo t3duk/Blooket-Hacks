@@ -1,6 +1,12 @@
 # Blooket Hacks
 Blooket Hacks without the shit.
 
+# How To
+Visit the [HOWTO.md](https://github.com/callmehspear/blooket/howto.md) file to see how.
+
+# Suggestions and Bugs
+Open an issue to suggest/report.
+
 # Planned
 - [ ] Get Max Daily Rewards
 - [ ] Unlock All Blooks
